@@ -38,7 +38,7 @@ def clean_data(data):
         splits = splits[:-2]
 
         # remove bad data
-        splits = [item if item != "M" else "0" for item in splits]
+        # splits = [item if item != "M" else "0" for item in splits]
 
         # join splits back into a line
         output.append(",".join(splits))

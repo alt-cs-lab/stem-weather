@@ -1,5 +1,5 @@
 {
   "python.analysis.extraPaths": [
-    "/home/vscode/.local/lib/python3.14/site-packages"
-]
+      "/home/vscode/.local/lib/python3.14/site-packages"
+  ]
 }

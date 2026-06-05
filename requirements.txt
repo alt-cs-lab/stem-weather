@@ -1,0 +1,7 @@
+plotly[express] 
+numpy 
+pandas 
+ipython
+ipykernel
+nbformat
+# scikit-learn
