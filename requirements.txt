@@ -4,4 +4,4 @@ pandas
 ipython
 ipykernel
 nbformat
-# scikit-learn
+scikit-learn
